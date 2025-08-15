@@ -3,7 +3,7 @@
 <div class="downloads">
     <div class="download-item">
         <h2>Item 1</h2>
-        <a class="download-btn" href="files/item1.jpg" download>Download</a>
+        <a class="download-btn" href="U.S.DIVERS_Yellow_Primary.svg" download>Download</a>
     </div>
     <div class="download-item">
         <h2>Item 2</h2>
